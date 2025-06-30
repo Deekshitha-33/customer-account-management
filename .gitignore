@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+target/
+.classpath
+.settings/
+node_modules/
+.env
